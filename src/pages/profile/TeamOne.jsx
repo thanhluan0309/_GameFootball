@@ -488,7 +488,7 @@ const TeamOne = () => {
                   return (
                     <>
                       <div
-                        className={`flex w-full h-full text-[#393E40] p-2 rounded-lg ${
+                        className={`flex w-full  text-[#393E40] p-2 rounded-lg ${
                           index === 0
                             ? "text-[#FFD700]"
                             : index === 1
